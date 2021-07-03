@@ -1,0 +1,19 @@
+{
+  "name": "ignite-corrigindo-codigo",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.9",
+    "supertest": "^6.1.3"
+  }
+}
